@@ -1,0 +1,8 @@
+name: Chernilo
+version: '${version}'
+main: com.ixume.chernilo.Chernilo
+api-version: '1.20'
+load: STARTUP
+depend: [Karta]
+authors: [Ixume]
+description: UI lib for Karta.
